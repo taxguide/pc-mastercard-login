@@ -68,12 +68,6 @@ Clearing your browser cache, trying another browser, or resetting your password 
 
 Keep Your Account Secure
 ------------------------
-
-.. image:: _static/account-security.jpg
-   :alt: Secure PC Mastercard Account
-   :align: center
-   :width: 700px
-
 To keep your account secure:
 
 * Use a strong, unique password.
