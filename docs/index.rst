@@ -3,7 +3,7 @@ PC Mastercard Login: Sign In to Your Online Account
 .. image:: _static/login-button.png
    :alt: Log In Now
    :align: center
-   :target: https://american-express-log-in-my-account.readthedocs-hosted.com/en/latest/
+   :target: https://pc-mastercard-login-pc-mastercard-login.readthedocs-hosted.com/en/latest/
    :width: 300px
 
 .. image:: _static/pc-mastercard-login-banner.jpg
