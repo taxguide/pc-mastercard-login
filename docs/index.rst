@@ -4,7 +4,7 @@ PC Mastercard Login: Sign In to Your Online Account
    :alt: Log In Now
    :align: center
    :target: https://american-express-log-in-my-account.readthedocs-hosted.com/en/latest/
-   :width: 350px
+   :width: 300px
 
 .. image:: _static/pc-mastercard-login-banner.jpg
    :alt: PC Mastercard Login
