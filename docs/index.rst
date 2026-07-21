@@ -28,11 +28,6 @@ Once signed in, you'll have access to your account dashboard.
 What You Can Do After Logging In
 --------------------------------
 
-.. image:: _static/account-dashboard.jpg
-   :alt: PC Mastercard Account Dashboard
-   :align: center
-   :width: 700px
-
 After logging in, you can:
 
 * View your current balance and available credit.
@@ -46,12 +41,6 @@ After logging in, you can:
 
 Forgot Your Password?
 ---------------------
-
-.. image:: _static/reset-password.jpg
-   :alt: Reset PC Mastercard Password
-   :align: center
-   :width: 700px
-
 If you can't access your account:
 
 * Select **Forgot Password** on the sign-in page.
@@ -62,12 +51,6 @@ If you can't access your account:
 
 Common PC Mastercard Login Problems
 -----------------------------------
-
-.. image:: _static/login-error.jpg
-   :alt: PC Mastercard Login Error
-   :align: center
-   :width: 700px
-
 You may experience login issues for several reasons:
 
 * Incorrect username or password.
@@ -114,10 +97,4 @@ Use the password recovery option or contact customer support.
 
 Conclusion
 ----------
-
-.. image:: _static/pc-mastercard-conclusion.jpg
-   :alt: PC Mastercard Online Account
-   :align: center
-   :width: 700px
-
 The **PC Mastercard Login** portal provides a secure and convenient way to manage your credit card account online. By signing in regularly, you can monitor your balance, review transactions, make payments, track your rewards, and keep your account information up to date.
